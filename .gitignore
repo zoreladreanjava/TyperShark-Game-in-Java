@@ -1,0 +1,20 @@
+﻿# Java compiled output
+*.class
+bin/
+out/
+
+# IDE metadata
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Keep shared Visual Studio Code project settings; ignore local workspace state
+.vscode/*
+!.vscode/settings.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
